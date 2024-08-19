@@ -4,3 +4,10 @@ div p {
     font-size: 20px;
     text-align: center;
 }
+
+/*
+The following descendant combinators would've also worked:
+    .container .text
+    .container p
+    div .text
+*/
